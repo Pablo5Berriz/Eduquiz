@@ -1,0 +1,225 @@
+{
+   "checksum": "aeb80c721e59731b9de7f8eb186edbba",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13271202871817743",
+            "date_last_used": "0",
+            "guid": "0a4299c4-debe-4add-b01c-afe11e5726ca",
+            "id": "10",
+            "name": "Programme DEVIENS UNE INCONTOURNABLE ASSISTANTE DE DIRECTION PROFESSIONNELLE",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://assistantededirectionprofessionnelle.com/assistante-de-direction-incoutournable1592228707706?answer_1=attach%C3%A9e+de+direction+de+1+an+3+mois&answer_2=+%2B237+694+35+10+42&answer_3=%2B237+694+35+40+41&answer_4=OUI&answer_5=la+gestion+administrative&answer_6=OUI&answer_7=150000&answer_8=ingless+nti&assigned_to=Denise+KASAU+Ass%27Vir+Pro&event_end_time=2021-07-20T11%3A30%3A00-04%3A00&event_start_time=2021-07-20T11%3A00%3A00-04%3A00&event_type_name=Session+Ass%27Vir+2&event_type_uuid=CBE2AMOBBNIFDKU6&invitee_email=princesseliane%40yahoo.fr&invitee_first_name=liliane&invitee_last_name=ondoa&invitee_uuid=AIGL7XEMLDJTX2MG&text_reminder_number=%2B237+6+94+35+10+42",
+            "visit_count": 0
+         }, {
+            "date_added": "13280026395030504",
+            "date_last_used": "0",
+            "guid": "fc36ee33-15e5-4fee-98b8-b26fd619fec3",
+            "id": "11",
+            "name": "GetFlirty | Search",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://getflirty.com/site/search?chatOpened=1",
+            "visit_count": 0
+         }, {
+            "children": [ {
+               "date_added": "13267838284088392",
+               "date_last_used": "0",
+               "guid": "cdd54bc8-6e21-4f01-8113-ac66e7c4bfd5",
+               "id": "13",
+               "name": "ASUS Homepage",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.asus.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13267838284098452",
+               "date_last_used": "0",
+               "guid": "ffdee988-8d53-4062-8c17-36780a2686a1",
+               "id": "14",
+               "name": "ASUS Member",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://account.asus.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13289142575635599",
+            "date_last_used": "0",
+            "date_modified": "13289142575635599",
+            "guid": "554491ae-428e-4d06-948d-8cc0e0c6736e",
+            "id": "12",
+            "name": "ASUS E-Service",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "c8e315d7-0592-4f5e-a8c9-e85f0608330b",
+            "id": "15",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "7a2d3f4f-127f-4fea-a208-432a48633e35",
+            "id": "16",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "d9d00955-327b-4f3f-9565-e71cd559f667",
+            "id": "17",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "0e195fd7-3e6e-428c-b702-d3d7d96b96bf",
+            "id": "18",
+            "name": "Actualités",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://news.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "7eba01aa-ea00-4b5a-9ad8-a9039157f0f1",
+            "id": "19",
+            "name": "Traduire",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://translate.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "5842e626-b68d-44df-a1d2-65f37b9f099a",
+            "id": "20",
+            "name": "Omnivox - Léa, l'environnement Profs-Étudiants",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www-c5.omnivox.ca/cvir/abse/Notes.ovx?ModeAff=PRPE&C=HEX&E=P&L=FRA&Ref=20220923150242&Info=S0U1MzJqNmludUIrMzNVckNVdlFEZ3VEcmRrTkdhcW13aytlRHgwSnRzclAxNEtpL0syOCtEaWNadTZTdW5EejArcTJtWGF0Q2lxS2ZqK05JT0dtdnZWV1RJQjErdG9odEFqa2wyT21XSmpNWU9DL3pwdjBXN0E0cmFYaTUyRTZqOHB1UFl4YkZJT29ScGgyYkJKeHhUVHBwTjEyaVhDUDFFRXoyVEl1Vk5SeDZnRUZ1emtjNXhDcEI2V0ZyTTZj",
+            "visit_count": 0
+         }, {
+            "date_added": "13319435410159512",
+            "date_last_used": "0",
+            "guid": "1cf8d09f-60f7-4dc3-aa34-af45d8332ba9",
+            "id": "21",
+            "name": "Preview - Infotech Solutions",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://websites.godaddy.com/en-CA/editor/f2888fd8-7456-4858-bb96-c776dd43427c/a252d0a8-4d7e-48f9-bebe-ce2f0bfabba8",
+            "visit_count": 0
+         }, {
+            "date_added": "13323200240122728",
+            "date_last_used": "0",
+            "guid": "704e84e5-1c96-4462-93e2-802778999e55",
+            "id": "22",
+            "name": "Omnivox - Collège Multihexa",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://collegemultihexa.omnivox.ca/intr/",
+            "visit_count": 0
+         } ],
+         "date_added": "13371149183050999",
+         "date_last_used": "0",
+         "date_modified": "13323200240122728",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barre des favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13310593067614388",
+               "date_last_used": "0",
+               "guid": "7dfe4dd7-de66-47ca-a143-4a14715b4485",
+               "id": "8",
+               "name": "Calculateur de sous-réseau IP en ligne 100% sécurisé",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.subnet-calculator.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13311486483067969",
+               "date_last_used": "0",
+               "guid": "18d82c91-7755-42c6-9023-48a2b2a2f282",
+               "id": "9",
+               "name": "RAID vs sauvegarde : découvrez les différences et les avantages des deux",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.techtarget.com/searchdatabackup/tip/RAID-vs-backup-Learn-the-differences-and-benefits-of-both",
+               "visit_count": 0
+            } ],
+            "date_added": "13306297910000864",
+            "date_last_used": "0",
+            "date_modified": "13311486483067969",
+            "guid": "38c37fef-1d07-4369-a37e-dad2c25192ff",
+            "id": "7",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13371149183051000",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Autres favoris",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13256576011177016",
+            "date_last_used": "0",
+            "guid": "ce625601-32e4-4e66-8ba6-63774bb56716",
+            "id": "6",
+            "name": "Nouvel onglet",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome-native://newtab/",
+            "visit_count": 0
+         } ],
+         "date_added": "13371149183051001",
+         "date_last_used": "0",
+         "date_modified": "13256576011177016",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoris de l'appareil mobile",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCGrOpx6QAQAAEgAqGG4zcE5hcEZtM0RkZXJuVlZkOTJEVXc9PUgDoAYHEqgBCBMSowEKHEtOVE5RRHZRaWJ3QmlGNjFrTGc2L0lGbFJ1ST0SJDdlYmEwMWFhLWVhMDAtNGI1YS05YWQ4LWE5MDM5MTU3ZjBmMRgAIAAoADDp1YXc+TE4oMrK464wQKDKyuOuMEocVHZmNzZGM2puYWUrTVYwcXpoSnZUM0VlMTQ0PVofIh3+RnM0NXBMbXJabXpkYS9qZkN1cFRBbUo5MGY0PWUUqpV6EqgBCBISowEKHHNMdHFnSU9IQi9hTWJvUktRekpwaXMremZxUT0SJDBlMTk1ZmQ3LTNlNmUtNDI4Yy1iNzAyLWQzZDdkOTZiOTZiZhgAIAAoADDo1YXc+TE4gMrK464wQIDKyuOuMEocNkVxYzNZK3p2Z051MTZ4U1BPTm5HNnZYTllFPVofIh39eHlBNUlMa1NaeDEvV0F0dmNNejl6dmRBbkJNPWV2yUezEqgBCBASowEKHHRZSkRhbkZIREdnN0N1VkphWGk2Zm15bHA0Zz0SJDdhMmQzZjRmLTEyN2YtNGZlYS1hMjA4LTQzMmE0ODYzM2UzNRgAIAAoADDpnJ/1gTI40cnK464wQNHJyuOuMEocQjNJTmd3TDNvR2NESERrcUZ3clY4NHlpbmRrPVofIh32NzRSK0FnNHFTK1Q3eUJ6RCszbmpJSzlJN0ZrPWU4+TkzEqgBCA8SowEKHGNSTHJjb2lMVTNkYXJrcTNnYkliZDhHNFVOaz0SJGM4ZTMxNWQ3LTA1OTItNGY1ZS1hOGM5LWU4NWYwNjA4MzMwYhgAIAAoADD7ra6WgDI4g8nK464wQIPJyuOuMEocZDZmRkc3eUcyRVR0K3JVamVMM1VkeTBRa0dFPVofIh3sTmVuL3dhdU1VOXRmVlBvL0tHSnlTejBkUWxJPWWbPYW2EqcBCA4SogEKHG1TRkRDYUU0ZkhOVGlUcDEzcFNiNnB6YUMxOD0SJGZmZGVlOTg4LThkNTMtNDA2Mi04YzE3LTM2NzgwYTI2ODZhMRgAIAAoADCj47Lx7i841bbZ5vAvQNW22ebwL0occlc2enpPVUZ2OEd4bi9LQkJlTURUVTRmY09vPVoeIhx1Z2pLcHY0NVQvMWhlZUE1NkpWUVY5aXNYeHc9ZQAAAAASiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkNDE0NjJlNmEtMzgyYy01YThkLWFjZjctMWYzYjBlMjg3OWFhGAAgACgAML7v9JuzMDiljdnm8C9ApY3Z5vAvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKnAQgIEqIBChw5Vm5FU0lSamE4YksrSm1MeXJRVU9zRGVHN3c9EiQ3ZGZlNGRkNy1kZTY2LTQ3Y2EtYTE0My00YTE0NzE1YjQ0ODUYACAAKAAwyZPW474wOOyT1uO+MEDsk9bjvjBKHDdCMHF5N1U1cW9lanRleFY0OFYzc1ZvYklxUT1aHiIcVGdQSzZicGt4K3FpRWhaSWZOMTdCeUhTb2RVPWVpjbjoEqcBCA0SogEKHGVnL2hpcXZQZUhybUtDTmtHNEFzdmJtYml2UT0SJGNkZDU0YmM4LTZlMjEtNGYwMS04MTEzLWFjNjZlN2M0YmZkNRgAIAAoADCj47Lx7i84hLfZ5vAvQIS32ebwL0ocM01vNFJHcVk0cGt0TVRmRU80TzZmMGVwQ2NNPVoeIhx0Q09SM3Ria3p6SGhsc1JmTHV6NXdTZGsxTXc9ZQAAAAASqAEICxKjAQocU29md1lLL2JXVUpJVjNqazFwTlZXZkdBVXEwPRIkZmMzNmVlMzMtMTVlNS00ZmVlLTk4YjgtYjI2ZmQ2MTlmZWMzGAAgACgAMPXpoISDMTiWktnm8C9AlpLZ5vAvShwxb1hvTUFMbGlNdEJ1QjczRm9IVjFKUGlpQVk9Wh8iHbM1bGFYTWR3NDMrQWJDTHMvam1pTGNlcFQxY1E9ZZQcJJYSpwEIChKiAQocMHVEOXpIQUJqeUZHN24yMXFtUHVKT0FvNjhnPRIkMGE0Mjk5YzQtZGViZS00YWRkLWIwMWMtYWZlMTFlNTcyNmNhGAAgACgAMPTpoISDMTj9j9nm8C9A/Y/Z5vAvShxhVldCUUhNNWpTWkhvQ205NS9ieFI3cDkyblU9Wh4iHGdJQ01DN1V3V1ZnNXg1NjNqK2FpVENETm9Cbz1lzOHInBKoAQgREqMBChxsWWp0QWo3U2N1T09IYVBaaS9hTXN3VXZWOEk9EiRkOWQwMDk1NS0zMjdiLTRmM2YtOTU2NS1lNzFjZDU1OWY2NjcYACAAKAAw9tjdgvwxOKPJyuOuMECjycrjrjBKHHFKcjhNdkJ1SndXY3FBMldhN1cxNG4zV01hUT1aHyId+2E3TDg2Ynl6UXJyU0RpMkxtUGd5dzVxQm1rWT1lPWyFERKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRjODIxZGU4Yy03MTI1LTVmYjgtYjIwNy00MmQ2OWRhOTBlNjEYACAAKAAwvu/0m7MwOKiM2ebwL0CojNnm8C9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqgBCAkSowEKHFlwWDJieVZBdkN6VHJJM3VnVHpPaDc5ejNkWT0SJDE4ZDgyYzkxLTc3NTUtNDJjNi05MDIzLTQ4YTJiMmEyZjI4MhgAIAAoADCk+teNwjA4xPrXjcIwQMT6143CMEocbDJPUXF4ZDJiS2tpd2dKcUxlaGdyZDNCekVRPVofIh2qQ1BlVjM1bXB0UWRvM210WjcrclJJWVl5M2RVPWXz/hbEEqoBCBUSpQEKHHNrdGZhQUlZK01DTHZWRmZvZy80bVpWNm5Saz0SJDFjZjhkMDlmLTYwZjctNGRjMy1hYTM0LWFmNDVkODMzMmJhORgAIAAoADD46aCEgzE4/O+D3N8wQPzvg9zfMEocanNvYWw2YU9WemhyRy9vOG9ZeGgxc3NMVmZrPVohIh///+45RzFDUWVEcTNTWk5pYXM5anFFWHRzdVhHems9ZdTvcDoSpwEIBxKiAQocbmwwa3pWK3lKeEgwS1R2cGxRS1JKbU5OQ3BBPRIkMzhjMzdmZWYtMWQwNy00MzY5LWEzN2UtZGFkMmMyNTE5MmZmGAAgACgAMN7IyuOuMDjOysrjrjBAzsrK464wShxyZGxqeVdhV1JUa3E4OGErZ0poaXVPaHkwSDA9Wh4iHE9sWmF0d0dyaFo0UzZyMzVPYWgxUlhtbHQ4OD1lAAAAABKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQyZWRkMzUxZC1iN2Q2LTU2ZjAtOTdjMC0wMjM2Y2QyZGI2NTkYACAAKAAwvu/0m7MwOLiM2ebwL0C4jNnm8C9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqcBCAYSogEKHEIwM1FmYnVqWDIraWdVTFlDY0xJaTFFVWFybz0SJGNlNjI1NjAxLTMyZTQtNGU2Ni04YmE2LTYzNzc0YmI1NjcxNhgAIAAoADDq1YXc+TE44N2F3PkxQODdhdz5MUocWVNWeG9ITWJuaElQdDhlSVV3cWJIMTMrdFFFPVoeIhwyM2NXTnIza1VVMldNME0ydnFkM3VKbUpMVEE9ZQAAAAASqgEIFhKlAQocU0puT2FReSs5djVYS3N6VTA3anA2cTh4WjVZPRIkNzA0ZTg0ZTUtMWM5Ni00NDYyLTkzZTItODAyNzc4OTk5ZTU1GAAgACgAMPPpoISDMTji8Z7f7TBA4vGe3+0wShw1TVBwdUlYOWc3YS9ab20wL3liN1RsWjRXcFE9WiEiH///93E5K3U3OGtnT2pBZEtTVTk2a1MwV3l3OVFYWT1l80RObxKoAQgUEqMBChxQMUF0SHg3YmF1OGE4NFM5dVAxZU5aU0p2cDg9EiQ1ODQyZTYyNi1iNjhkLTQ0ZGYtYTFkMi02NWYzN2I5ZjA5OWEYACAAKAAw5tWF3PkxOKaxlpC3MECmsZaQtzBKHGhWWnk5Q3FlTHd6WDB4OTFlNEgxSVlOdkJ4QT1aHyId/zBsSFVnZGovN0x3OHdrakNDVWFmbmtmaU5BMD1l80RObxKoAQgMEqMBChxkRzcwcS92SkVrYlFBM21WbGV4MitERlAydnM9EiQ1NTQ0OTFhZS00MjhlLTRkMDYtOTQ4ZC04Y2MwZTBjNjczNmUYACAAKAAwo+Oy8e4vOMO32ebwL0DDt9nm8C9KHDlVZGtSbDhXVTc4UHlRM0EzTlZNVnR5TjR1OD1aHyId2WVubFJ3ZHliT20vWFN3NzVUcm5rSFpLZ0Uwaz1lAAAAADAAOAA=",
+   "version": 1
+}
